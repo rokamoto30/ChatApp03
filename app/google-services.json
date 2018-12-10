@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1017571230307",
+    "firebase_url": "https://chatapp-387de.firebaseio.com",
+    "project_id": "chatapp-387de",
+    "storage_bucket": "chatapp-387de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017571230307:android:65cdaf8d8daeb3b9",
+        "android_client_info": {
+          "package_name": "com.example.rokam.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017571230307-0lsj7fdm64qaapn4cofn7ns2gmibck7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD03o7C817-r6WL7rIVNkXctMXKzj5eAw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
